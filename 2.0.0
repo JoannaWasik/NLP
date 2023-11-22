@@ -1,0 +1,2 @@
+Requirement already satisfied: portalocker in c:\users\cem\anaconda3\lib\site-packages (2.8.2)
+Requirement already satisfied: pywin32>=226 in c:\users\cem\anaconda3\lib\site-packages (from portalocker) (305.1)
